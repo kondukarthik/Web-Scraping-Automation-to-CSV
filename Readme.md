@@ -251,9 +251,9 @@ using an environment variable.
 - The script exits safely even when files are unavailable.
 
 # Output
-Downloaded Excel files are stored in axis_monthly_portfolios/
-Generated CSV files are stored in axis_monthly_csv/
-State tracking is maintained using JSON files:
-downloaded_files.json
-generated_csv_files.json
-pending_months.json
+- Downloaded Excel files are stored in axis_monthly_portfolios/
+- Generated CSV files are stored in axis_monthly_csv/
+- State tracking is maintained using JSON files:
+  - downloaded_files.json
+  - generated_csv_files.json
+  - pending_months.json
